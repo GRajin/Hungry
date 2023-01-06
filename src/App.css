@@ -2,6 +2,25 @@
   text-align: center;
 }
 
+body {
+  background-image: url("./images/login-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.login-form {
+  background-color: white;
+  padding: 25px;
+  margin-left: 25%;
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 25%;
+  height: 75%;
+  border-radius: 20px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -9,7 +28,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 1s linear;
   }
 }
 

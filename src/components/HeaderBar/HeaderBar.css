@@ -1,0 +1,21 @@
+.child {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    background: #e20817;
+    color: white;
+    width: 100vw;
+}
+
+.header-content {
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo {
+    height: 50px;
+}

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+.btn-submit {
+    font-family: "Fredoka One";
+    background-color: red;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
